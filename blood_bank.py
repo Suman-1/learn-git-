@@ -9,7 +9,7 @@ username = "suman33.sb@gmail.com"
 password = "@#3147547314@#"
 username = from_email
 to_list = ['suman33.ab@gmail.com']
-
+there is nothiong that is the demo
 
 class BloodDonors:
     user_details = []
