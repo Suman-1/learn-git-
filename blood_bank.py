@@ -11,6 +11,9 @@ username = from_email
 to_list = ['suman33.ab@gmail.com']
 there is nothiong that is the demo
 
+
+nothing that is here resides
+
 class BloodDonors:
     user_details = []
     messages = []
